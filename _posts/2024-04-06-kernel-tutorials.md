@@ -5,7 +5,10 @@ date: 2024-04-06
 description: Here you'll find my experience doing the tutorials
 tags:
  - mac0470
+ - kernel
 ---
+
+EDIT
 
 # Analytics
  
