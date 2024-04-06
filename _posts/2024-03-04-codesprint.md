@@ -2,6 +2,7 @@
 layout: post
 title: "Braindecode CodeSprint"
 date: 03-04-2024
+tags: brain
 ---
 
 ## Braindecode CodeSprint
