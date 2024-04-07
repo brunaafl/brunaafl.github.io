@@ -60,6 +60,6 @@ solved my problem. One thing I can say, at least, is that taking this second, su
 ## [Build the Linux kernel for ARM](https://flusp.ime.usp.br/kernel/build-linux-for-arm/)
 
 
-## [Build the Linux kernel for ARM](https://flusp.ime.usp.br/kernel/build-linux-for-arm/)
+## [Introduction to Linux kernel Character Device Drivers](https://flusp.ime.usp.br/kernel/char-drivers-intro/)
 
 
