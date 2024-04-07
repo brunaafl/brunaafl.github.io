@@ -1,29 +1,40 @@
 ---
 layout: post
-title: "Kernel Tutorials"
+title: "FLUSP Tutorials"
 date: 2024-04-06
-description: Here you'll find my experience doing the tutorials
+description: Talking about my experience, what I learned, and problems =]
 tags:
  - mac0470
  - kernel
 ---
 
-EDIT
+I've never had experience with virtual machines before, and at first glance, it seemed a bit dense and scary, and although I had a nice learning curve over this process, it was not the smoothest one. The tutorials are very nicely explained 
 
-# Analytics
+# [Use QEMU and libvirt to setup a Linux kernel test environment](https://flusp.ime.usp.br/kernel/qemu-libvirt-setup/)
  
-#### [Google Analytics](http://www.google.com/analytics/)
+I imagine it is better not to break your system while experimenting with kernel!
 
-To enable Google Analytics create an account [here](https://analytics.google.com). Then add your tracking id in `config.xml`, it should look something like `UA-********-1`
- 
-#### [Yandex Metrica](http://metrica.yandex.com)
- 
-To enable Yandex Metrica you need to register, create a 'counter' and then copy-paste it's code in `/_includes/yandex-metrica.html` file.
+With that in mind, the purpose of this tutorial was to explain how to set up a virtual machine, i.e., an emulation of a computer inside your own machine, using QEMU and libvirt virtualization tools. This tutorial can be resumed in some major steps:
 
-# Tags
+1) Getting the disk image for the VM, booting it with QEMU, and setting up libvirt to manage it.
 
-To use this feature you simply will need to create a markdown file for each tag which you are using in you site in **tag** folder. To simplify this procedure there is an [/admin]({{site.baseurl}}/admin) page, which outputs the bash command which you just need to run inside **tag** folder of your site. Also don't forget to rerun it when you add a post with new tag.
+  Problems.....
 
-# Comments
 
-To enable [Disqus](http://disqus.com) register on the site and then just put your name in `_config.xml`. Comments could be switched on and off on per post basis, just put `comments: true` to enable them.
+2) With libvirt, set ssh connection
+
+  Problems...   
+
+
+# [Build the Linux kernel for ARM](https://flusp.ime.usp.br/kernel/build-linux-for-arm/)
+
+
+Explain the idea of the tutorial
+
+
+This was definitely the tutorial I had the most trouble with, but mostly, because of some weird particularities of my machine.
+
+# [Build the Linux kernel for ARM](https://flusp.ime.usp.br/kernel/build-linux-for-arm/)
+
+
+# [Build the Linux kernel for ARM](https://flusp.ime.usp.br/kernel/build-linux-for-arm/)
