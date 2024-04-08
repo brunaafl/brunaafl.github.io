@@ -12,4 +12,4 @@ My favorite deep-sky object is [NGC 4755](https://freestarcharts.com/ngc-4755), 
 
 
 
-![img]({{ '/assets/images/eeg-removebg-preview.png' | relative_url }}){: .center-image }*(°0°)*
+![img]({{ '/assets/images/eeg-removebg-preview.png' }})
