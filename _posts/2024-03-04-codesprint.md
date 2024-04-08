@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Braindecode CodeSprint"
-description: For people who like neural signal decoding
 date: 03-04-2024
+description: For people who like neural signal decoding
 tags: brain
 ---
 
