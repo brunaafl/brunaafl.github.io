@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Braindecode CodeSprint"
+description: For people who like neural signal decoding
 date: 03-04-2024
 tags: brain
 ---
@@ -23,6 +24,6 @@ During this week, we focused mainly on fixing open issues and improving document
 
 On my side, I helped improve documentation and solve some of the open issues. For instance, I worked with Bruno Aristimunha on creating new preprocessor objects for data based on MNE’s raw/Epochs methods, and with Pierre Guetschel on standardizing layers' names. All the changes for the new release can be found at [here](https://braindecode.org/stable/whats_new.html).
 
-If someone is reading this and wants to know more about Braindecode, check [https://braindecode.org/stable/index.html](https://braindecode.org/stable/index.html) !
+If someone is reading this for some reason and wants to know more about Braindecode, check [https://braindecode.org/stable/index.html](https://braindecode.org/stable/index.html) !
 
 ---
