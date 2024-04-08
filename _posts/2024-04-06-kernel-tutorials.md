@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FLUSP Tutorials"
+title: "Kernel Tutorials"
 date: 2024-04-06
 description: Talking about my experience, what I learned, and problems =]
 tags:
