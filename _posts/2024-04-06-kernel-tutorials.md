@@ -50,11 +50,7 @@ make ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- INSTALL_MOD_PATH=$VM_DIR/mountp
 solved my problem. One thing I can say, at least, is that taking this second, super careful look at the tutorials made me understand and connect the steps better.
 
 
-## [Build the Linux kernel for ARM](https://flusp.ime.usp.br/kernel/build-linux-for-arm/)
+## [Introduction to kernel build configuration and module](https://flusp.ime.usp.br/kernel/build-linux-for-arm/)
 
 Now with the downloaded kernel compiled, this tutorial showed how to do a minor modification (adding a new module) on the kernel and how to configure it. Besides discovering a problem with module installation within tutorial 2, the only other issue I had in this tutorial was also related to exported variables not being recognized. When running `make menuconfig` without defining **ARCH** and **CROSS_COMPILE** in the same command, the configuration opened was related to Linux/x86 instead of arm architecture.
-
-## [Introduction to Linux kernel Character Device Drivers](https://flusp.ime.usp.br/kernel/char-drivers-intro/)
-
-I had no problems running commands in this tutorial, just on concepts. It is very dense and I'm still trying to understand the goal.
 
